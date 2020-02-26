@@ -6,6 +6,9 @@ Upload unlimited images right here right now.
 NA.CX.EXE "<path-to-image>"
 ```
 
+# Error
+- The program will return exit code 1.
+
 # Usage
 - Copy program standard output.
 - Capture program standard output.
